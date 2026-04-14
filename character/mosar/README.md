@@ -1,6 +1,6 @@
 © [2025] Ubisoft Entertainment. All Rights Reserved
 
-This is the repository that contains html5 source code for the Mosar paper website.
+This is the repository that contains html5 source code for the Mosar paper website. 
 
 MOSAR can only be used for research purpose. Please refer to the license.txt file for more details.
 
